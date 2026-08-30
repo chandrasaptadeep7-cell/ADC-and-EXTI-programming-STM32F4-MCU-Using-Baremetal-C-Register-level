@@ -26,7 +26,7 @@ This Embedded C program is strictly for STM32F401CCU6 if you using some other MC
 * STM32F401CCU6 Datasheet (DS).
 * Arm Cortex M4 Program Manual.
 
-  ## Connection between STlink v2 and the MCU:
+## Connection between STlink v2 and the MCU:
 | **ST-Link V2 Pin** | **STM32F401CCU6 Pin** | **Purpose** |
 |---|---|---|
 | **3.3V** | **3.3V** | Power supply |
