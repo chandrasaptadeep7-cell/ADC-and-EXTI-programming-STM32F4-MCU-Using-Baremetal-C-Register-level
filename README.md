@@ -18,7 +18,7 @@ This Embedded C program is strictly for STM32F401CCU6 if you using some other MC
 * 1 Capacitor (0.1 or 0.01 uF)
 
 ## Software Required:
-* STM32cubeIDE
+* STM32CubeIDE
 * STM32CubeProgrammer
 
 ## Documents required:
