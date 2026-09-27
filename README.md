@@ -9,13 +9,13 @@ This Embedded C program is strictly for STM32F401CCU6 if you using some other MC
 ## Hardware used:
 * STM32F401CCU6 Microcontroller
 * ST link V2
-* 2 Resistors - 33 Ohm, 10k
+* 2 Resistors - 33 Ohm, 22k, 330
 * 1 Potentiometer - 10k
 * Wires - To make connection between the microcontroller and ST link v2, connect with button
 * 1 Bread Board
 * 1 Button
 * 1 LED
-* 1 Capacitor (0.1 or 0.01 uF)
+* 1 Capacitor (22 uF)
 
 ## Software Required:
 * STM32CubeIDE
